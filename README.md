@@ -1,7 +1,7 @@
 -  Hi, I’m Mahum 
 -  I’m interested in becoming a backend Software Engineer
--  I’m currently learning Java, Python, C, C++, Spring/Angular Backend Architecture and API's
--  I’m looking to collaborate on ...Projects
+-  I’m currently learning Java, Python, C, C++, JavaScript Spring/Angular, API's 
+-  I'm challenging myself by practicing 100 LeetCode questions everyday for 100 days
 - 📫 How to reach me: tariqm39@mcmaster.ca | 6477037765
 
 <!---

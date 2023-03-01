@@ -1,4 +1,4 @@
--  Hi, I’m Mahum. I'm currently a Project Manager who is enrolled in CS. 
+-  Hi, I’m Mahum. I'm currently a Project Manager who is enrolled in CS
 -  I’m interested in becoming a backend Software Engineer and Engineering Relations Product Manager
 -  I’m currently learning Java, Python, C, C++, JavaScript, Spring/Angular, API's 
 -  I'm challenging myself by practicing 100 LeetCode questions everyday for 100 days

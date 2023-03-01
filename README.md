@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Merctwain
-- 👀 I’m interested in ...becoming a Software Engineer
-- 🌱 I’m currently learning ...HTML/CSS, Python and Javascript
+- 👀 I’m interested in ...becoming a backend Software Engineer
+- 🌱 I’m currently learning Java, Python, C, C++
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...mahum.tariq@mohawkcollege.ca | 6477037765
 

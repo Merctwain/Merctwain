@@ -1,4 +1,4 @@
--  Hi, I’m Maha. I'm currently a Project Manager enrolled in a Masters in Computer Science
+-  Hi, I’m Maha. I'm currently a Project Manager enrolled in MD to Doctorate Program Commencing Winter 2026.
 -  I’m interested in Data Science abd Backend Software Engineering
 -  I am building ML models. Utilizing data to tell a story
 -  I’m currently learning ML libraries, DSA, Python, Azure Cloud, Java, C, C++, JavaScript, Typescript, Spring/Angular=, DSA, API's. 

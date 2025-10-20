@@ -1,5 +1,5 @@
 -  Hi, I’m Maha. I'm PMP/Analyst aspiring Masters to Doctorate
--  I’m interested in Data Science abd Backend Software Engineering
+-  I’m interested in Data Science + Backend Software Engineering
 -  I am learning and building ML models. Utilizing data to tell a story
 -  I’m currently learning ML libraries, DSA, Python, Azure Cloud, Java, C, C++, .NET, JavaScript et al
 -  I'm challenging myself by building project based learning and practicing LeetCode DSA everyday
